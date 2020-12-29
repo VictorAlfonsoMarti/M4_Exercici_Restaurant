@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.exe
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.deps.json
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.runtimeconfig.json
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.dll
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.pdb
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.AssemblyInfo.cs
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.dll
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.pdb
+C:\Users\victo\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.genruntimeconfig.cache
